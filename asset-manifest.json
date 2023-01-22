@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/State-Life-bai02/static/css/main.c0017707.css",
+    "main.js": "/State-Life-bai02/static/js/main.685ba2a0.js",
+    "static/js/787.90413281.chunk.js": "/State-Life-bai02/static/js/787.90413281.chunk.js",
+    "index.html": "/State-Life-bai02/index.html",
+    "main.c0017707.css.map": "/State-Life-bai02/static/css/main.c0017707.css.map",
+    "main.685ba2a0.js.map": "/State-Life-bai02/static/js/main.685ba2a0.js.map",
+    "787.90413281.chunk.js.map": "/State-Life-bai02/static/js/787.90413281.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0017707.css",
+    "static/js/main.685ba2a0.js"
+  ]
+}
